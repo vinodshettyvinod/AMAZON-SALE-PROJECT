@@ -1,4 +1,5 @@
-# AMAZON-SALE-PROJECT
+# AMAZON-SALES-ANALYSIS REPORT
+
 The Amazon Sales Report project is a comprehensive data analysis endeavor aimed at providing insights into sales performance on the Amazon platform. Leveraging Power BI and advanced data analytics techniques, this project delves into various aspects of sales data to drive informed decision-making processes.
 
 Key Features:
